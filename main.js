@@ -7,3 +7,6 @@ document.getElementById("projectNo1").addEventListener("click", function() {
 document.getElementById("projectNo2").addEventListener("click", function() {
     window.location.href = "projectNo2/projectNo2.html";
 });
+document.getElementById("css").addEventListener("click", function() {
+    window.location.href = "css/css.html";
+});
